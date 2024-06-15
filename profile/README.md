@@ -27,7 +27,7 @@ $~$
 
 ---
 ## License
-**CARVE** is currently propriety (version 0.001) (see license file), and in beta phase. It will soon be released and licensed for academic use only (please read the license file). Please note Weill Cornell Medicine, Cornell University has filed a patent for non-academic use.
+**CARVE** is currently propriety (version 0.001) (see license file), and in beta phase. It will soon be released and licensed for academic use only (please read the license file). Please note Weill Cornell Medicine, Cornell University is filing a patent for non-academic use.
 
 All Rights Reserved. Copyright (2022-present) Amanda M. Buch, Conor Liston, & Logan Grosenick
 
