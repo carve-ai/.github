@@ -40,7 +40,3 @@ $~$
 * :page_facing_up: Preprint November 2022: Buch, Amanda M., Liston, Conor & Grosenick, Logan. Simple and Scalable Algorithms for Cluster-Aware Precision Medicine. AISTATS 2024. https://arxiv.org/abs/2211.16553
 
 $~$
-
----
-## Contact
-[📧](mailto:amb2022@med.cornell.edu,log4002@med.cornell.edu) Please reach out to Dr. Amanda Buch and Dr. Logan Grosenick with any questions. 
