@@ -21,13 +21,13 @@ $~$
  2. **Locally Linear Pathwise Clustered Matrix Factorization (LL-PCMF).** **LL-PCMF** implements cluster-aware locally linear embedding on a single-view dataset. (Please cite *Buch et al., AISTATS 2024* paper)
  3. **Pathwise Clustered Canonical Correlation Analysis (P3CA).** **P3CA** implements cluster-aware canonical correlation analysis on two-view datasets. (Please cite *Buch et al., AISTATS 2024* paper)
 
-:computer: Our main Github repo implementing these algorithms will be linked here: [LINK]()
+:computer: Our main Github repo implementing these algorithms will be linked here.
 
 $~$
 
 ---
 ## License
-**CARVE** is currently propriety (version 0.001) (see license file), and in beta phase. It will soon be released and licensed for academic use.
+**CARVE** is currently in beta phase. It will soon be released and licensed for academic use.
 
 All Rights Reserved. Copyright (2022-present) Amanda M. Buch, Conor Liston, & Logan Grosenick
 
