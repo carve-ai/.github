@@ -1,4 +1,5 @@
 # Welcome to the CARVE Organization! :wave:
+
 🏂 **CARVE<sup>TM</sup>** stands for **Cluster-Aware Routines for Versatile Embedding** and provides a flexible toolbox of implementations of algorithms for tailored and effective application of cluster-aware embedding techniques. The algorithms and code were developed and written by *Dr. Amanda Buch* and *Dr. Logan Grosenick* in the Grosenick lab at Weill Cornell Medicine.  
 
 $~$
@@ -27,7 +28,10 @@ $~$
 
 ---
 ## License
-**CARVE** is currently in beta phase. It will soon be released and licensed for academic use.
+**CARVE** is currently proprietary and in beta phase. No copying nor use of code is allowed during this period without permission of all authors (No License). 
+Any publication, copying, or use of code outside of this organization is strictly prohibited prior to academic release. Copies posted elsewhere are in violation of this license and will be removed.
+
+It will soon be released and licensed for academic use.
 
 All Rights Reserved. Copyright (2022-present) Amanda M. Buch, Conor Liston, & Logan Grosenick
 
