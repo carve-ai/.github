@@ -19,7 +19,7 @@ Paper: https://proceedings.mlr.press/v238/buch24a.html
 The original algorithms and software were developed by Dr. Amanda Buch and Dr. Logan Grosenick.  
 This release was refactored, prepared, and packaged by Dr. Buch for easy implementation, and replicates the software, algorithms, and results reported in the AISTATS 2024 paper.
 
-Please contact Dr. Buch with any inquiries:
+Please contact Dr. Amanda Buch with any inquiries:
 - amanda.m.buch@gmail.com
 - amb2022@med.cornell.edu
 
