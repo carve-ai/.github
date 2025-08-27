@@ -6,7 +6,7 @@ Stay tuned for future releases of new algorithms and an integrated toolbox: [Sig
 
 ---
 
-## PCMF, LL-PCMF, & P3CA: Simple and Scalable Algorithms for Cluster‑Aware Embedding (Introduced in Buch et al., AISTATS 2024)
+## PCMF, LL-PCMF, & P3CA: Simple and Scalable Algorithms for Cluster‑Aware Embedding (Introduced in Buch, Liston, Grosenick. AISTATS 2024)
 
 **PCMF** (Pathwise Clustered Matrix Factorization), **LL‑PCMF** (Locally Linear PCMF), **P3CA** (Pathwise Clustered Canonical Correlation Analysis), and **Consensus PCMF** are modular algorithms that combine low‑rank embedding with a convex clustering penalty to produce **cluster‑aware** low-rank representations for single‑view and two‑view data.
 
